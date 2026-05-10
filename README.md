@@ -19,7 +19,7 @@ I/US Music® TAP (PRO) Proprietary Software Licence
 
 Product: I/US Music® TAP (PRO) / IUS Music TAP PRO
 Version reference: v0.4.9 and later development builds unless a different licence is supplied with a release
-Owner / Licensor: I/US Music® / Peter Far / Pezhman Farhangi
+Owner / Licensor: Pezhman Farhangi
 Website: https://iusmusic.com/
 Contact: iusmusics@gmail.com
 Location: London, United Kingdom
@@ -28,7 +28,7 @@ Effective date: 10 May 2026
 
 # 1. Rights reserved
 
-All rights in and to I/US Music® TAP (PRO), including the application, plug-in, source code, compiled binaries, user interface, visual design, workflow logic, arrangement logic, generation logic, diagrams, layouts, knobs, controls, panels, shapes, graphics, text, names, branding, sound design, internal presets, private runtime packs, documentation, and any other original material included with or visible in the product, are owned by or validly licensed to I/US Music® / Peter Far / Pezhman Farhangi.
+All rights in and to I/US Music® TAP (PRO), including the application, plug-in, source code, compiled binaries, user interface, visual design, workflow logic, arrangement logic, generation logic, diagrams, layouts, knobs, controls, panels, shapes, graphics, text, names, branding, sound design, internal presets, private runtime packs, documentation, and any other original material included with or visible in the product, are owned by or validly licensed to Pezhman Farhangi.
 
 No ownership rights are transferred to any user, tester, collaborator, distributor, studio, company, platform, or other third party. The product is made available only under the limited licence terms written in this document or in a separate signed agreement issued by the owner.
 
@@ -145,7 +145,7 @@ Unless a separate written agreement says otherwise, this licence is governed by 
 
 # 17. Copyright notice
 
-Copyright © 2026 I/US Music® / Peter Far / Pezhman Farhangi. All rights reserved.
+Copyright © 2026 Pezhman Farhangi - I/US Music® - All rights reserved.
 
 I/US Music® TAP (PRO), IUS Music TAP PRO, IUS, I/US Music®, TAP-related workflows, product design, visuals, logic, diagrams, controls, UI elements, documentation, and associated assets are proprietary to I/US Music® / Peter Far / Pezhman Farhangi unless expressly identified as third-party material.
 
@@ -217,6 +217,6 @@ This overview is intentionally high-level. It explains the product’s purpose a
 
 ## Copyright notice
 
-Copyright © 2026 I/US Music® / Peter Far / Pezhman Farhangi. All rights reserved.
+Copyright © 2026 Pezhman Farhangi - I/US Music® - All rights reserved.
 
 I/US Music® TAP (PRO), IUS Music TAP PRO, IUS, I/US Music®, TAP-related workflows, product design, visuals, logic, diagrams, controls, UI elements, documentation, and associated assets are proprietary to I/US Music® / Peter Far / Pezhman Farhangi unless expressly identified as third-party material.
