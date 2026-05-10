@@ -1,4 +1,4 @@
-# I/US Music® TAP (PRO) — Licence Document Package
+# I/US Music® TAP (PRO) Licence Document Package
 
 This package contains draft release documents for I/US Music® TAP (PRO) / IUS Music TAP PRO.
 
