@@ -4,6 +4,8 @@
 ![TAP PRO ](./TAP01.png)
 ![TAP PRO ](./TAP03.png)
 
+### Release scheduled for June 2026
+
 ## Files
 
 - `LICENSE` plain-text proprietary software licence.
