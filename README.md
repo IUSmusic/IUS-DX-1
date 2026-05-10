@@ -4,11 +4,11 @@ This package contains draft release documents for I/US Music® TAP (PRO) / IUS M
 
 ## Files
 
-- `LICENSE` — plain-text proprietary software licence.
-- `LICENSE.md` — Markdown version of the same licence.
-- `APP_OVERVIEW.md` — concise professional product overview for release packages, repositories, or private review.
-- `PRIVATE_MODE_AND_EXTERNAL_RESOURCES.md` — policy explaining Private Mode, Private Lab, optional external resources, and shipping boundaries.
-- `THIRD_PARTY_NOTICES_TEMPLATE.md` — template to complete before a public release.
+- `LICENSE` plain-text proprietary software licence.
+- `LICENSE.md` Markdown version of the same licence.
+- `APP_OVERVIEW.md` concise professional product overview for release packages, repositories, or private review.
+- `PRIVATE_MODE_AND_EXTERNAL_RESOURCES.md` policy explaining Private Mode, Private Lab, optional external resources, and shipping boundaries.
+- `THIRD_PARTY_NOTICES_TEMPLATE.md` template to complete before a public release.
 
 ## Intended use
 
