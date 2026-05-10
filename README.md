@@ -1,8 +1,7 @@
 # I/US Music® TAP (PRO)
 
-
-![TAP PRO ](./TAP01.png)
 ![TAP PRO ](./TAP02.png)
+![TAP PRO ](./TAP01.png)
 ![TAP PRO ](./TAP03.png)
 
 ## Files
