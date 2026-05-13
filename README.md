@@ -17,33 +17,6 @@
 - **Website:** https://iusmusic.com/IUSDX1.html
 - **Contact:** iusmusics@gmail.com
 
-## Core workflow
-
-1. Generate five complete full kit source mixes.
-2. Capture MIDI or percussive audio and analyse it as a Groove Profile.
-3. Build song length drum arrangements from musical direction.
-4. Arrange source material on a timeline.
-5. Edit MIDI, velocity, timing and structure.
-6. Shape groove, drums, FX, routing and soundbanks.
-7. Use LAB and setup tools for runtime status, verification and optional model routes.
-
-## Repository topics
-
-`ius-music` `ius-dx1` `drum-machine` `drum-production` `vst3` `standalone-app` `groove-capture` `midi-editing` `soundbanks` `audio-plugin` `music-production` `rhythm-engine`
-
-## Website files
-
-- `IUSDX1.html` is the public product page.
-- `assets/dx/` contains the image, video, documentation and license assets used by the page.
-- `robots.txt`, `sitemap.xml` and `assets/dx/site.webmanifest` support indexing and search engine discovery.
-
-## Documentation
-
-The website package includes HTML and PDF documentation under `assets/dx/docs/`.
-
-The official software license agreement is included unchanged at:
-
-`assets/dx/docs/pdf/IUS-DX1-Official-Software-License-Agreement.pdf`
 
 ## License
 
