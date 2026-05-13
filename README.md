@@ -1,8 +1,8 @@
 # I/US Music® TAP (PRO)
 
-![TAP PRO ](./TAP02.png)
-![TAP PRO ](./TAP01.png)
-![TAP PRO ](./TAP03.png)
+![TAP PRO ](./.png)
+![TAP PRO ](./.png)
+![TAP PRO ](./.png)
 
 ### Release scheduled for June 2026
 
