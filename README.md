@@ -48,3 +48,6 @@ The official software license agreement is included unchanged at:
 ## License
 
 IUS DX-1 is proprietary software. All rights are reserved by I/US Music®. See the official software license agreement included with this package.
+
+
+I/US Music® is a registered trade mark of I/US Music in the United Kingdom. IUS DX-1™ is a trade mark of I/US Music. All software, artwork, documentation, branding, audio assets, interface designs, and related materials are proprietary. © 2026 PEZHMAN FARHANGI. All rights reserved.
