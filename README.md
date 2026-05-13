@@ -3,7 +3,7 @@
 ![Product](https://img.shields.io/badge/product-IUS%20DX--1-6F1016)
 ![Platform](https://img.shields.io/badge/platform-Standalone%20App%20%7C%20VST3-111111)
 ![Workflow](https://img.shields.io/badge/workflow-Groove%20Capture%20%7C%20Drum%20Generation%20%7C%20Arrangement-6F1016)
-![License](https://img.shields.io/badge/license-Proprietary%20%2F%20All%20Rights%20Reserved-111111)
+![License](https://img.shields.io/badge/All%20Rights%20Reserved-111111)
 
 **IUS DX-1** is a rhythm first drum production system by **I/US Music®**. It is designed for producers who want to generate complete drum source material, capture live groove feel, build full track arrangements and refine the result through MIDI editing, groove shaping, drum controls, effects, routing and soundbank management.
 
